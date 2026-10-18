@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/1480-running-sum-of-1d-array) |
 ## Math
 |  |
 | ------- |
