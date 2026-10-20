@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0238-product-of-array-except-self) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
@@ -65,8 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0035-search-insert-position) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/1929-concatenation-of-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
