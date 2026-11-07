@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0905-sort-array-by-parity](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0414-third-maximum-number) |
+| [0905-sort-array-by-parity](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0283-move-zeroes) |
+| [0905-sort-array-by-parity](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
