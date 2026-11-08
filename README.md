@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0485-max-consecutive-ones) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/1512-number-of-good-pairs) |
 ## Sorting
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0977-squares-of-a-sorted-array) |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -103,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0852-peak-index-in-a-mountain-array) |
