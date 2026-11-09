@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0410-split-array-largest-sum) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/1512-number-of-good-pairs) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0905-sort-array-by-parity) |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -107,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -135,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/krishjangid01/LeetCode-Submissions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
